@@ -32,7 +32,7 @@ And I've deployed on:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 I also have a focus on Data Science and Machine Learning and enjoying experimenting with
-different ML models, with real world applications. I'm proficient with the following ML tool:
+different ML models, with real world applications. I'm proficient with the following ML tools:
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
