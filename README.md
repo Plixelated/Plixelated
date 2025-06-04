@@ -11,7 +11,7 @@ When I'm not reading, playing D&D, or tinkering with something new,
 I enjoy working on projects that test my knowledge and expand my skillset.
 
 ### What do I do?
-I've done fullstack development for Web Applications with the following frameworks:
+I've done fullstack development for Web Applications with the following frameworks, languages, and tools:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
